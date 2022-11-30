@@ -1,32 +1,25 @@
 # `Discovery`
 
-Discover the world of microcontrollers through [Rust](https://www.rust-lang.org/)!
+Descubra o mundo de microcontroladores com [Rust](https://www.rust-lang.org/)!
 
-There are currently two versions of this book. Both of them provide an
-introduction to microcontrollers and how to use Rust with them.
-The first is older and uses an F3 Discovery circuit board, while
-the second is newer and uses a micro:bit circuit board instead.
+Há duas versões desse livro no momento. Ambas trazem uma introdução a microcontroladores e como usar Rust com eles.
+A primeira versão é mais antiga e usa a placa de circuito F3 Discovery, enquanto a segunda é mais nova e usa a placa micro:bit.
 
-- Read the newer book, using a micro:bit:
+- Leia o livro mais recente, usando uma micro:bit:
   https://docs.rust-embedded.org/discovery/microbit
-- Read the older book, using an F3 discovery board:
+- Leia o livro antigo, usando uma placa F3 Discovery:
   https://docs.rust-embedded.org/discovery/f3discovery
-- Start working on the examples from this repository
-- You've got questions?
-    - Have a look at our [discussions section on
-      GitHub](https://github.com/rust-embedded/discovery/discussions)
-    - Maybe it has already been answered
-    - If not, start a new discussion
-- You've found an issue?
-    - Have a look at our [issues on
-      GitHub](https://github.com/rust-embedded/discovery/issues)
-    - Maybe there is already a workaround
-    - If not, please open a new one - or even better - a [pull
-      request](https://github.com/rust-embedded/discovery/pulls) for solving
-      it
-- Have fun and enjoy!
+- Comece a trabalhar com os exemplos nesse repositório
+- Dúvidas?
+    - Dê uma olhada na [aba de discussão no GitHub (em inglês)](https://github.com/rust-embedded/discovery/discussions)
+- Encontrou um problema?
+    - Dê uma olhada na [aba de issues no GitHub (em inglês)](https://github.com/rust-embedded/discovery/issues)
+    - Talvez já haja uma solução
+    - Se não houver, abra um issue ou, ainda melhor, crie um [pull
+      request](https://github.com/rust-embedded/discovery/pulls) para resolver o problema 
+- Se divirta!
 
-This project is developed and maintained by the [Resources team][team].
+Esse projeto é uma tradução comunitária do original desenvolvido e mantido pelo [time de recursos do Embedded Devices Working Group](https://github.com/rust-embedded/wg#the-resources-team).
 
 ## License
 
